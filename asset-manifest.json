@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/red-queen-animation-app/static/css/main.57a7a4b1.chunk.css",
+    "main.js": "/red-queen-animation-app/static/js/main.09e1bfd0.chunk.js",
+    "main.js.map": "/red-queen-animation-app/static/js/main.09e1bfd0.chunk.js.map",
+    "runtime-main.js": "/red-queen-animation-app/static/js/runtime-main.f825ec71.js",
+    "runtime-main.js.map": "/red-queen-animation-app/static/js/runtime-main.f825ec71.js.map",
+    "static/js/2.b0ce827d.chunk.js": "/red-queen-animation-app/static/js/2.b0ce827d.chunk.js",
+    "static/js/2.b0ce827d.chunk.js.map": "/red-queen-animation-app/static/js/2.b0ce827d.chunk.js.map",
+    "index.html": "/red-queen-animation-app/index.html",
+    "precache-manifest.bc9b70762b1203b83580f9b3637302fd.js": "/red-queen-animation-app/precache-manifest.bc9b70762b1203b83580f9b3637302fd.js",
+    "service-worker.js": "/red-queen-animation-app/service-worker.js",
+    "static/css/main.57a7a4b1.chunk.css.map": "/red-queen-animation-app/static/css/main.57a7a4b1.chunk.css.map",
+    "static/js/2.b0ce827d.chunk.js.LICENSE.txt": "/red-queen-animation-app/static/js/2.b0ce827d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f825ec71.js",
+    "static/js/2.b0ce827d.chunk.js",
+    "static/css/main.57a7a4b1.chunk.css",
+    "static/js/main.09e1bfd0.chunk.js"
+  ]
+}
